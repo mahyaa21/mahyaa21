@@ -22,7 +22,7 @@
 ### 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahya-kabiri/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mahyaa21)
+[![GitLab](https://img.shields.io/badge/GitLab-Explore-orange?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/MahyaKabiri)
 
 ---
 
