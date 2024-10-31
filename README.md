@@ -19,18 +19,22 @@
 
 ---
 
-### 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mahya-kabiri/)
-- [GitLab](https://gitlab.com/MahyaKabiri)
-- 📧 Email: mahya.kabiri21@gmail.com
+### 🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahya-kabiri/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mahyaa21)
+
+---
+
+### 📧 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mahya.kabiri21@gmail.com)
 
 ---
 
 ### 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahyaa21&show_icons=true&theme=radical)
 
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahyaa21&theme=react-dark)
 
 ---
 
