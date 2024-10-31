@@ -32,8 +32,8 @@
 
 ---
 
-### 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahyaa21&show_icons=true&theme=radical)
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahyaa21&theme=react-dark)
 
 
 ---
