@@ -32,10 +32,4 @@
 
 ---
 
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahyaa21&theme=react-dark)
-
-
----
-
 Thank you for visiting my GitHub! Feel free to reach out 😊
