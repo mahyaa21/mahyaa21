@@ -1,6 +1,6 @@
 # Hi there, I'm Mahya Kabiri 👋
 
-🌟 **Front-End Engineer** with 5 years of experience building responsive, maintainable, and user-friendly web applications. Skilled in **HTML, CSS, TypeScript**, and **React**, with experience collaborating in Scrum teams of 20+ members. I’m passionate about designing intuitive interfaces that enhance user experience and engagement.
+🌟 **Front-End Engineer** with 5 years of experience building responsive, maintainable, and user-friendly web applications. Skilled in **HTML, CSS, TypeScript**, and **React**, with experience collaborating in Scrum teams. I’m passionate about designing intuitive interfaces that enhance user experience and engagement.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📧 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mahya.kabiri21@gmail.com)
+* ✉️ You can contact me at [Mahya.Kabiri21@gmail.com](mailto:Mahya.Kabiri21@gmail.com)
 
 ---
 
