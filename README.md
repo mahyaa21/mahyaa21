@@ -1,6 +1,6 @@
 # Hi there, I'm Mahya Kabiri 👋
 
-🌟 **Front-End Engineer** with 5 years of experience building responsive, maintainable, and user-friendly web applications. Skilled in **HTML, CSS, TypeScript**, and **React**, with experience collaborating in Scrum teams. I’m passionate about designing intuitive interfaces that enhance user experience and engagement.
+🌟 **Front-End Engineer** with over 5 years of experience building responsive, maintainable, and user-friendly web applications. Skilled in **HTML, CSS, TypeScript**, and **React**, with experience collaborating in Scrum teams. I’m passionate about designing intuitive interfaces that enhance user experience and engagement.
 
 ---
 
